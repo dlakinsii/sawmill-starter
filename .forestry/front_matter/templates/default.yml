@@ -22,5 +22,13 @@ fields:
     color_format: Hex
   label: Color
   name: color
+- type: image_gallery
+  default:
+  - "/uploads/2018/04/20/logs-splash.png"
+  - "/uploads/2018/04/19/headingcolors-1.png"
+  - "/uploads/2018/04/19/bulma-logo.png"
+  - "/uploads/2018/04/19/blocks-ss.png"
+  label: Gallery
+  name: gallery
 pages:
 - test.md
